@@ -1,0 +1,103 @@
+# 📊 Task 2 - Exploratory Data Analysis (EDA) & Business Intelligence
+
+## 📌 Project Overview
+
+This project was completed as part of the **ApexPlanet Data Analytics Internship**.
+
+The objective was to perform Exploratory Data Analysis (EDA) on a sales dataset, answer business questions using SQL, and design a static dashboard to present key insights.
+
+---
+
+## 🎯 Objectives
+
+- Analyze sales data using Python.
+- Perform descriptive statistical analysis.
+- Generate meaningful visualizations.
+- Execute SQL business queries.
+- Design a dashboard for business insights.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQLite
+- Microsoft Excel
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+Task-2-EDA-Business-Intelligence
+│
+├── Dataset
+├── Dashboard
+├── Images
+├── Reports
+├── Scripts
+├── SQL
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+---
+
+## 📊 Visualizations Created
+
+- Age Distribution Histogram
+- Category-wise Sales Chart
+- Gender Distribution Pie Chart
+- Top Cities Analysis
+- Product Distribution
+- Quantity vs Total Sales Scatter Plot
+- Correlation Heatmap
+
+---
+
+## 🗄️ SQL Business Questions
+
+- Top 5 Products by Revenue
+- Sales by Category
+- Top Cities by Revenue
+- Gender-wise Orders
+- Average Customer Age
+- Monthly Sales Trend
+- Total Orders
+
+---
+
+## 📈 Dashboard
+
+A static dashboard was created in Microsoft Excel to present:
+
+- Total Orders
+- Average Customer Age
+- Top Category
+- Top Product
+- Sales Charts
+- Customer Distribution
+
+---
+
+## 📌 Key Insights
+
+- Electronics generated the highest revenue.
+- Laptop was the highest revenue-generating product.
+- Patna generated the highest revenue.
+- Average customer age is **41.36 years**.
+- Total orders processed: **1000**.
+
+---
+
+## 👩‍💻 Author
+
+**Kottakota Gayatri**
+
+ApexPlanet Data Analytics Internship – Task 2
